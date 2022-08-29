@@ -1,0 +1,90 @@
+body{
+    background: url(images/12.jpg)
+    no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.head{
+    float: left;
+    color: gold;
+    font-family: cursive;
+}
+
+nav{
+    float: right;
+}
+
+ul li{
+    display: inline;
+    padding: 1rem;
+}
+
+ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+
+.active{
+    color:gold;
+}
+
+.container{
+    width: 85%;
+    margin: auto;
+    overflow:hidden;
+    margin-top: 1%;
+}
+
+showcase h1{
+    color: #fff;
+    font-family: cursive;
+    text-align: center;
+}
+
+showcase h3{
+    color: #fff;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.catagory{
+    color: #fff;
+    margin-top: 5%;
+    display: flex;
+    text-align: center;
+    font-family: cursive;
+}
+
+.snacks, .grill{
+    padding-left: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

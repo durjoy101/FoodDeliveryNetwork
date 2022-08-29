@@ -1,0 +1,14 @@
+#Head{
+    background: #f5f6fa;
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+    height: 80px;
+    color: #48dbfb;
+}
+.header{
+    float: left;
+    padding-top:20px;
+    padding-left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}

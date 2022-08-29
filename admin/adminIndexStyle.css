@@ -1,0 +1,16 @@
+body{
+    background: url('../Images/1.jpg') no-repeat;
+   background-size:cover;
+    height: 100%;
+    width: 100%;
+    color: #dfe6e9;
+    font-family: 'Times New Roman', Times, serif;
+}
+.form-container{
+    border: 0px solid #fff;
+    padding: 50px 60px;
+    margin-top: 20vh;
+    -webkit-box-shadow: 1px 4px 26px 11px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 4px 26px 11px rgba(0,0,0,0.75);
+    box-shadow: 1px 4px 26px 11px rgba(0,0,0,0.75);
+}
